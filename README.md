@@ -7,8 +7,10 @@ This project focuses on predicting machine failures in advance using machine lea
 
 ## Dataset
 
-The dataset contains machine sensor readings such as:
+The dataset used in this project is sourced from Kaggle:
+Dataset Link: [Predictive Maintenance Dataset](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification)
 
+The dataset contains machine sensor readings such as:
 * Air temperature [K]
 * Process temperature [K]
 * Rotational speed [rpm]
@@ -16,7 +18,6 @@ The dataset contains machine sensor readings such as:
 * Tool wear [min]
 
 Target variables:
-
 * Failure (0 = No Failure, 1 = Failure)
 * Failure Type
 
