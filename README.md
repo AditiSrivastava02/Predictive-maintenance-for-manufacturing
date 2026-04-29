@@ -71,11 +71,11 @@ All visualizations and results (confusion matrix, ROC curves, SHAP plots) are av
 ```bash
 predictive-maintenance/
 │
-├── code/
-├── dataset/
 ├── outputs/
-├── requirements.txt
-└── README.md
+├── Predictive maintenance for manufacturing.zip/
+├── Predictive_Maintenance_for_Manufacturing.ipynb/
+├── README.md
+└── requirements.txt
 ```
 
 ## How to Run
